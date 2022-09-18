@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">MP3 Player</string>
+    <string name="song_string">song</string>
+</resources>
